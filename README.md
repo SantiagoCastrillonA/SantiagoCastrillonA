@@ -48,20 +48,12 @@
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br>
 
-- **Extras**:
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-</p>
-
-<br>
 <br>
 
 -----
 
 <br>
-
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
@@ -79,12 +71,6 @@
 <br>
 
 -----
-
-<br>
-<br>
-
-## <b> Let's Connect..!</b><img src="<iframe src="https://giphy.com/embed/xT9DPIlGnuHpr2yObu" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-xT9DPIlGnuHpr2yObu">via GIPHY</a></p>" width ="80">
-<br>
 <div align='left'>
 
 <ul>
