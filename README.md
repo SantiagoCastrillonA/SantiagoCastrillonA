@@ -12,15 +12,12 @@
 
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
 - Apasionado por el desarrollo, principalmente  back-end 👨‍💻
-- Estudiante de Analisis y Desarrollo de Software 🧑🏽‍🎓
+- Estudiante de Análisis y Desarrollo de Software 🧑🏽‍🎓
 - Actualmente aprendiendo javaScript 👓
-- Aficionado de las nuevas tecnologias 💻
+- Aficionado de las nuevas tecnologías 💻
 
 <br><br>
 
