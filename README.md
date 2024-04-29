@@ -3,9 +3,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Santiago+Castrillón+A..&hearts;++;Self-taught+Front-End+Developer,++;Back-End+Student;Análisis+y+Desarrollo+de+Software+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-<br>
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About me
-<br>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
 
 - Apasionado por el desarrollo, principalmente  back-end 👨‍💻
 - Estudiante de Análisis y Desarrollo de Software 🧑🏽‍🎓
@@ -49,8 +51,7 @@
 </div>
 
 <br>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b> Github Stats </b>
-
+<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 <br>
 <div align="center">
 
@@ -63,7 +64,7 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align='left'>	
+<div align='center'>	
 </div>
 <b>En camino al éxito ✨</b>
 </div>
