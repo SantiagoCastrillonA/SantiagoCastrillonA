@@ -11,7 +11,6 @@
 
 - Apasionado por el desarrollo, principalmente  back-end 👨‍💻
 - Estudiante de Análisis y Desarrollo de Software 🧑🏽‍🎓
-- Actualmente aprendiendo javaScript 👓
 - Aficionado de las nuevas tecnologías 💻
 
 <br><br>
