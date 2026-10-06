@@ -1,70 +1,152 @@
-<h1 align="center"><b>Hi , I'm Santiago </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Santiago+Castrillón+A..&hearts;++;Self-taught+Front-End+Developer,++;Back-End+Student;Análisis+y+Desarrollo+de+Software+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D8FF,50:3A7BD5,100:7B2FF7&height=230&section=header&text=Santiago%20Castrill%C3%B3n&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Laravel%20%E2%80%A2%20Tiempo%20real&descSize=18&descAlignY=56" width="100%" alt="Header" />
 </p>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
-
-- Apasionado por el desarrollo, principalmente  back-end 👨‍💻
-- Estudiante de Análisis y Desarrollo de Software 🧑🏽‍🎓
-- Aficionado de las nuevas tecnologías 💻
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
 <p align="center">
-
-- **Languages**:
-    
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>   
-    
-- **Lerarning Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align='left'>	
-</div>
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/SantiagoCastrillonA">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SantiagoCastrillonA&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SantiagoCastrillonA&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D8FF&center=true&vCenter=true&width=650&lines=%3C%3Fphp+echo+%22Hola+mundo%2C+soy+Santiago%22%3B;Construyo+apps+con+Laravel+%26+PHP+%E2%9A%A1;Chats+en+tiempo+real+con+WebSockets+%F0%9F%92%AC;Mentor+en+J%C3%B3venes+creaTIvos+2026+%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB;Desde+el+Quind%C3%ADo+para+el+mundo+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
+  </a>
 </p>
 
-</a>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Quindío,_Colombia-0d1117?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/💼_Berhlan_de_Colombia-FF2D20?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧑‍🏫_Mentor_Sofka-7B2FF7?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=SantiagoCastrillonA&label=VISITAS&color=00d8ff&style=for-the-badge" />
+</p>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align='center'>	
-</div>
-<b>En camino al éxito ✨</b>
-</div>
+<!-- ═══════════════════════ SOBRE MÍ ═══════════════════════ -->
+<h2>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
+  Sobre mí
+</h2>
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+```php
+<?php
+
+namespace App\Developers;
+
+class Santiago extends Developer
+{
+    public string $rol      = 'Full-Stack Developer';
+    public string $empresa  = 'Berhlan de Colombia S.A.S.';
+    public string $ubicacion = 'Quindío, Colombia 🇨🇴';
+
+    public array $stack = [
+        'backend'  => ['PHP', 'Laravel', 'Python'],
+        'frontend' => ['JavaScript', 'jQuery', 'Bootstrap'],
+        'realtime' => ['Laravel Reverb', 'WebSockets'],
+    ];
+
+    public array $tambienSoy = [
+        'Mentor en Jóvenes creaTIvos 2026 (Sofka)',
+        'Estudiante de Análisis y Desarrollo de Software',
+    ];
+
+    public function filosofia(): string
+    {
+        return 'Aprender, construir y enseñar. 🚀';
+    }
+}
+```
+
+</td>
+<td width="42%" align="center" valign="middle">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="100%" alt="Coding" />
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════ LO QUE CONSTRUYO ═══════════════════════ -->
+## ⚡ En qué estoy trabajando
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <h3>💬</h3>
+  <b>Chat en tiempo real</b><br>
+  <sub>Conexión entre la web corporativa y el panel de asesores con <b>Laravel Reverb</b>, transcripción por correo y alertas de PQRS.</sub>
+</td>
+<td align="center" width="33%">
+  <h3>🏢</h3>
+  <b>Intranet corporativa</b><br>
+  <sub>Dashboard interno en <b>Laravel</b> con módulos de gestión, tablas dinámicas y formularios avanzados.</sub>
+</td>
+<td align="center" width="33%">
+  <h3>🧑‍🏫</h3>
+  <b>Jóvenes creaTIvos 2026</b><br>
+  <sub>Coordino y acompaño a nuevos desarrolladores en su formación con <b>Sofka Technologies</b>.</sub>
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════ STACK ═══════════════════════ -->
+## 🛠️ Stack tecnológico
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,js,html,css,jquery,bootstrap&theme=dark&perline=8" alt="Lenguajes y frameworks" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,notion,postman&theme=dark" alt="Herramientas" />
+</p>
+
+<!-- ═══════════════════════ PROYECTOS ═══════════════════════ -->
+## 🚀 Proyecto destacado
+
+<p align="center">
+  <a href="https://github.com/SantiagoCastrillonA/ecommerce-2.0">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=SantiagoCastrillonA&repo=ecommerce-2.0&theme=tokyonight&hide_border=true&border_radius=12" alt="ecommerce-2.0" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════ ESTADÍSTICAS ═══════════════════════ -->
+## 📊 Estadísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SantiagoCastrillonA&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&locale=es" alt="Estadísticas" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SantiagoCastrillonA&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&locale=es" alt="Lenguajes" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SantiagoCastrillonA&theme=tokyonight&hide_border=true&border_radius=12&locale=es" alt="Racha" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantiagoCastrillonA&theme=tokyo-night&hide_border=true&radius=12&area=true" width="100%" alt="Gráfica de actividad" />
+</p>
+
+<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SantiagoCastrillonA/SantiagoCastrillonA/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SantiagoCastrillonA/SantiagoCastrillonA/output/github-snake.svg" />
+    <img alt="Snake comiéndose mis contribuciones" src="https://raw.githubusercontent.com/SantiagoCastrillonA/SantiagoCastrillonA/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+<!-- ═══════════════════════ CONTACTO ═══════════════════════ -->
+## 🤝 Conectemos
+
+<p align="center">
+  <a href="https://github.com/SantiagoCastrillonA"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- Reemplaza TU_USUARIO y TU_CORREO, o borra la línea que no uses -->
+  <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=500&lines=En+camino+al+%C3%A9xito+%E2%9C%A8;Gracias+por+pasar+por+aqu%C3%AD+%F0%9F%91%8B" alt="Despedida" />
+</p>
+
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:3A7BD5,100:00D8FF&height=120&section=footer" width="100%" alt="Footer" />
+</p>
