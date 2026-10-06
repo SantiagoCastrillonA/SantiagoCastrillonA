@@ -1,17 +1,16 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D8FF,50:3A7BD5,100:7B2FF7&height=230&section=header&text=Santiago%20Castrill%C3%B3n&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Laravel%20%E2%80%A2%20Tiempo%20real&descSize=18&descAlignY=56" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D8FF,50:3A7BD5,100:7B2FF7&height=230&section=header&text=Santiago%20Castrill%C3%B3n&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Laravel%20%E2%80%A2&descSize=18&descAlignY=56" width="100%" alt="Header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D8FF&center=true&vCenter=true&width=650&lines=%3C%3Fphp+echo+%22Hola+mundo%2C+soy+Santiago%22%3B;Construyo+apps+con+Laravel+%26+PHP+%E2%9A%A1;Chats+en+tiempo+real+con+WebSockets+%F0%9F%92%AC;Mentor+en+J%C3%B3venes+creaTIvos+2026+%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB;Desde+el+Quind%C3%ADo+para+el+mundo+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D8FF&center=true&vCenter=true&width=650&lines=%3C%3Fphp+echo+%22Hola+mundo%2C+soy+Santiago%22%3B;Construyo+apps+con+Laravel+%26+PHP+%E2%9A%A1;Mentor+en+J%C3%B3venes+creaTIvos+2026+%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB;Desde+el+Quind%C3%ADo+para+el+mundo+%F0%9F%8C%8E" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Quindío,_Colombia-0d1117?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/💼_Berhlan_de_Colombia-FF2D20?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🧑‍🏫_Mentor_Sofka-7B2FF7?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=SantiagoCastrillonA&label=VISITAS&color=00d8ff&style=for-the-badge" />
 </p>
@@ -22,10 +21,6 @@
   Sobre mí
 </h2>
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
 ```php
 <?php
 
@@ -33,9 +28,8 @@ namespace App\Developers;
 
 class Santiago extends Developer
 {
-    public string $rol      = 'Full-Stack Developer';
-    public string $empresa  = 'Berhlan de Colombia S.A.S.';
-    public string $ubicacion = 'Quindío, Colombia 🇨🇴';
+    public string $rol       = 'Full-Stack Developer';
+    public string $ubicacion = 'Quindío, Colombia';
 
     public array $stack = [
         'backend'  => ['PHP', 'Laravel', 'Python'],
@@ -55,37 +49,7 @@ class Santiago extends Developer
 }
 ```
 
-</td>
-<td width="42%" align="center" valign="middle">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="100%" alt="Coding" />
-</td>
-</tr>
-</table>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════ LO QUE CONSTRUYO ═══════════════════════ -->
-## ⚡ En qué estoy trabajando
-
-<table>
-<tr>
-<td align="center" width="33%">
-  <h3>💬</h3>
-  <b>Chat en tiempo real</b><br>
-  <sub>Conexión entre la web corporativa y el panel de asesores con <b>Laravel Reverb</b>, transcripción por correo y alertas de PQRS.</sub>
-</td>
-<td align="center" width="33%">
-  <h3>🏢</h3>
-  <b>Intranet corporativa</b><br>
-  <sub>Dashboard interno en <b>Laravel</b> con módulos de gestión, tablas dinámicas y formularios avanzados.</sub>
-</td>
-<td align="center" width="33%">
-  <h3>🧑‍🏫</h3>
-  <b>Jóvenes creaTIvos 2026</b><br>
-  <sub>Coordino y acompaño a nuevos desarrolladores en su formación con <b>Sofka Technologies</b>.</sub>
-</td>
-</tr>
-</table>
 
 <!-- ═══════════════════════ STACK ═══════════════════════ -->
 ## 🛠️ Stack tecnológico
@@ -100,8 +64,8 @@ class Santiago extends Developer
 ## 🚀 Proyecto destacado
 
 <p align="center">
-  <a href="https://github.com/SantiagoCastrillonA/ecommerce-2.0">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=SantiagoCastrillonA&repo=ecommerce-2.0&theme=tokyonight&hide_border=true&border_radius=12" alt="ecommerce-2.0" />
+  <a href="https://github.com/SantiagoCastrillonA/guia_jc">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=SantiagoCastrillonA&repo=guia_jc&theme=tokyonight&hide_border=true&border_radius=12" alt="Jóvenes creaTIvos" />
   </a>
 </p>
 
@@ -119,10 +83,6 @@ class Santiago extends Developer
   <img src="https://streak-stats.demolab.com?user=SantiagoCastrillonA&theme=tokyonight&hide_border=true&border_radius=12&locale=es" alt="Racha" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantiagoCastrillonA&theme=tokyo-night&hide_border=true&radius=12&area=true" width="100%" alt="Gráfica de actividad" />
-</p>
-
 <!-- ═══════════════════════ SNAKE ═══════════════════════ -->
 <p align="center">
   <picture>
@@ -137,9 +97,8 @@ class Santiago extends Developer
 
 <p align="center">
   <a href="https://github.com/SantiagoCastrillonA"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <!-- Reemplaza TU_USUARIO y TU_CORREO, o borra la línea que no uses -->
-  <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/santiago-castrill%C3%B3n-arbelaez-0b0906430"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:santiago.castrillon.ar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
